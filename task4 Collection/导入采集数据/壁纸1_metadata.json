@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "record_id": "MD_1778421703634_42afa50c",
+  "created_at": "2026-05-10T22:01:43.634825",
+  "credential": {
+    "collection_id": "COL_1778421703634_2339f6",
+    "file_hash": "ed0ab2afcb8113141f63e9c734e8127669f0735d28296c569143f851424f4111",
+    "file_name": "壁纸1.jpg",
+    "file_size": 2865681,
+    "file_type": "image",
+    "timestamp": 1778421703634,
+    "timestamp_readable": "2026-05-10 22:01:43",
+    "collector_id": "COL_1778421666_1024",
+    "collector_name": "1234",
+    "collector_department": "A",
+    "device_id": "CAMERA_02FEA96F",
+    "device_name": "佳能G12",
+    "device_certificate_id": "CERT_1778421381_CAMERA_02FEA96F",
+    "location": "地点1",
+    "gps_latitude": null,
+    "gps_longitude": null,
+    "remarks": ""
+  }
+}

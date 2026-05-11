@@ -1,0 +1,11 @@
+{
+  "devices": {
+    "CAMERA_02FEA96F": {
+      "device_id": "CAMERA_02FEA96F",
+      "device_name": "佳能G12",
+      "device_type": "camera",
+      "certificate_id": "CERT_1778421381_CAMERA_02FEA96F"
+    }
+  },
+  "current_device": "CAMERA_02FEA96F"
+}
