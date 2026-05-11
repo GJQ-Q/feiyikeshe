@@ -1,0 +1,12 @@
+[
+  {
+    "watermark_str": "d380a829f6269646|researcher|1778413055",
+    "watermark_hash": "1e850e38edc03debff0a67666ca97bacfe4d64b0f1a765b82bbfa4403a2e4d05",
+    "file_hash": "d380a829f62696460a462ed6dd8ad6d1da7d2043f360c8ef79aa3ff3cb4d57d6",
+    "user_id": "researcher_zhang_san",
+    "timestamp": 1778413055,
+    "output_path": "test_heritage_dwt_wm.jpg",
+    "embed_size": 32,
+    "strength": 0.15
+  }
+]

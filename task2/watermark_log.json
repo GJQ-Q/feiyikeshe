@@ -1,0 +1,36 @@
+[
+  {
+    "file_hash": "d380a829f62696460a462ed6dd8ad6d1da7d2043f360c8ef79aa3ff3cb4d57d6",
+    "user_id": "researcher_zhang_san",
+    "timestamp": 1778407340,
+    "watermark_info": "d380a829f6269646|researcher_zhang_san|1778407340",
+    "output_path": "test_heritage_wm.jpg"
+  },
+  {
+    "watermark_str": "d380a829f6269646|researcher|7588",
+    "file_hash": "d380a829f62696460a462ed6dd8ad6d1da7d2043f360c8ef79aa3ff3cb4d57d6",
+    "user_id": "researcher_zhang_san",
+    "timestamp": 1778407588,
+    "output": "test_heritage_wm.jpg",
+    "watermark_hash": "afc8299699284bc674c1d59d8b860098854a06f4cb43d09300a8ae7aceb8eeef"
+  },
+  {
+    "watermark_str": "d380a829f6269646|researcher|2734",
+    "watermark_hash": "2b68230b44a48069a0b617468c43aa5680fa945dc0246abf03ab199134dc89c5",
+    "file_hash": "d380a829f62696460a462ed6dd8ad6d1da7d2043f360c8ef79aa3ff3cb4d57d6",
+    "user_id": "researcher_zhang_san",
+    "timestamp": 1778412734,
+    "output": "test_heritage_wm.jpg"
+  },
+  {
+    "watermark_id": "416839796e6b7346ef9428dfb7e6d38e",
+    "watermark_info": {
+      "watermark_id": "416839796e6b7346ef9428dfb7e6d38e",
+      "file_hash": "d380a829f62696460a462ed6dd8ad6d1da7d2043f360c8ef79aa3ff3cb4d57d6",
+      "user_id": "researcher_zhang_san",
+      "timestamp": 1778412841,
+      "created_at": "2026-05-10 19:34:01"
+    },
+    "output_path": "test_heritage_wm.jpg"
+  }
+]
