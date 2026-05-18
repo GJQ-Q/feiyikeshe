@@ -1,0 +1,12 @@
+[
+  {
+    "watermark_str": "512cc1d8c08a31a9|gjq_230720|1779084167",
+    "watermark_hash": "27b7d42e9bce8484b4e1d7188d172a38a6b10db10c2936032252278a35854269",
+    "file_hash": "512cc1d8c08a31a9038e77f2be11df730e7c08296185801d4d807c85c284a073",
+    "user_id": "gjq_23072018",
+    "timestamp": 1779084167,
+    "output_path": "center_storage.jpg",
+    "embed_size": 32,
+    "strength": 0.15
+  }
+]
