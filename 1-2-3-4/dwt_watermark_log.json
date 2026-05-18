@@ -1,0 +1,72 @@
+[
+  {
+    "watermark_str": "512cc1d8c08a31a9|gjq_230720|1779084167",
+    "watermark_hash": "27b7d42e9bce8484b4e1d7188d172a38a6b10db10c2936032252278a35854269",
+    "file_hash": "512cc1d8c08a31a9038e77f2be11df730e7c08296185801d4d807c85c284a073",
+    "user_id": "gjq_23072018",
+    "timestamp": 1779084167,
+    "output_path": "center_storage.jpg",
+    "embed_size": 32,
+    "strength": 0.15
+  },
+  {
+    "watermark_str": "6ec5a2a3d19b79c9|gjq_230720|1779088306",
+    "watermark_hash": "8459f04b8270d0ef4bf83d445a023462a5e33e5c5edec53c08e4b643b8182e13",
+    "file_hash": "6ec5a2a3d19b79c9dadd5a4d6c1158f6889a202c15a0815073feb773894df233",
+    "user_id": "gjq_23072018",
+    "timestamp": 1779088306,
+    "output_path": "center_storage.jpg",
+    "embed_size": 32,
+    "strength": 0.15
+  },
+  {
+    "watermark_str": "512cc1d8c08a31a9|gjq_230720|1779089234",
+    "watermark_hash": "e8878fe98bba76a684423143a6c803c0c1621e300df405f9dff7ec0270cc3a37",
+    "file_hash": "512cc1d8c08a31a9038e77f2be11df730e7c08296185801d4d807c85c284a073",
+    "user_id": "gjq_23072018",
+    "timestamp": 1779089234,
+    "output_path": "center_storage.jpg",
+    "embed_size": 32,
+    "strength": 0.15
+  },
+  {
+    "watermark_str": "512cc1d8c08a31a9|gjq_230720|1779090610",
+    "watermark_hash": "a53de4be10e843ce013eeb229fbcef61c1033246fd65b91345bf6f1788efdf72",
+    "file_hash": "512cc1d8c08a31a9038e77f2be11df730e7c08296185801d4d807c85c284a073",
+    "user_id": "gjq_23072018",
+    "timestamp": 1779090610,
+    "output_path": "center_storage.jpg",
+    "embed_size": 32,
+    "strength": 0.15
+  },
+  {
+    "watermark_str": "512cc1d8c08a31a9|gjq_230720|1779090614",
+    "watermark_hash": "aab44a48923f5b633c0243deb7541d94639b09943bb140d33c193467a9703cce",
+    "file_hash": "512cc1d8c08a31a9038e77f2be11df730e7c08296185801d4d807c85c284a073",
+    "user_id": "gjq_23072018",
+    "timestamp": 1779090614,
+    "output_path": "center_storage.jpg",
+    "embed_size": 32,
+    "strength": 0.15
+  },
+  {
+    "watermark_str": "512cc1d8c08a31a9|gjq_230720|1779090815",
+    "watermark_hash": "ac570ac665973262f1b1c085d49431f65c90541dea80c295ab5e8880a7b14c47",
+    "file_hash": "512cc1d8c08a31a9038e77f2be11df730e7c08296185801d4d807c85c284a073",
+    "user_id": "gjq_23072018",
+    "timestamp": 1779090815,
+    "output_path": "center_storage.jpg",
+    "embed_size": 32,
+    "strength": 0.15
+  },
+  {
+    "watermark_str": "512cc1d8c08a31a9|gjq_230720|1779091133",
+    "watermark_hash": "d9c2ffe307220e24fcadbedf4ac4f8dff285f23bd120dfc69f8bd7fabe5725cf",
+    "file_hash": "512cc1d8c08a31a9038e77f2be11df730e7c08296185801d4d807c85c284a073",
+    "user_id": "gjq_23072018",
+    "timestamp": 1779091133,
+    "output_path": "center_storage.jpg",
+    "embed_size": 32,
+    "strength": 0.15
+  }
+]

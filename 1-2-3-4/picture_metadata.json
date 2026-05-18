@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "record_id": "MD_1779091129141_dd99034d",
+  "created_at": "2026-05-18T15:58:49.141655",
+  "credential": {
+    "collection_id": "COL_1779091129141_3bee63",
+    "file_hash": "60ff00c2fee7dd5cc41eeda09aace286fa93662093f3a02ba06583f5a318c230",
+    "file_name": "picture.jpg",
+    "file_size": 132185,
+    "file_type": "image",
+    "timestamp": 1779091129141,
+    "timestamp_readable": "2026-05-18 15:58:49",
+    "collector_id": "COLLECTOR_GJQ_001",
+    "collector_name": "gjq",
+    "collector_department": "非遗数字化保护中心",
+    "device_id": "CAMERA_02FEA96F",
+    "device_name": "佳能G12(课设专用)",
+    "device_certificate_id": "CERT_gjq_23072018",
+    "location": "非遗数字化采集中心",
+    "gps_latitude": null,
+    "gps_longitude": null,
+    "remarks": "系统自动采集"
+  }
+}
